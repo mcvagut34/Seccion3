@@ -1,2 +1,4 @@
-package testSuite.pages;public class Menu {
+package testSuite.pages;
+
+public class Menu {
 }
